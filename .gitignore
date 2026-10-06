@@ -7,3 +7,4 @@ artifacts/
 data/
 
 *.ipynb
+.week1_env/
